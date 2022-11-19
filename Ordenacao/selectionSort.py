@@ -1,4 +1,4 @@
-def ordenacao_selecao(A):
+def selectionSort(A):
     n = len(A)
     # Percorre o arranjo A.
     for i in range(n):
@@ -12,4 +12,4 @@ def ordenacao_selecao(A):
     return A
 
 A = [10,5,6,3,9,1,8,2,4,7]
-print(ordenacao_selecao(A))
+print(selectionSort(A))
