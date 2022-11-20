@@ -11,5 +11,5 @@ def selectionSort(A):
         A[i], A[minimo] = A[minimo], A[i]
     return A
 
-A = [10,5,6,3,9,1,8,2,4,7]
+A = [11, 10,5,6,3,9,1,8,2,4,7]
 print(selectionSort(A))
