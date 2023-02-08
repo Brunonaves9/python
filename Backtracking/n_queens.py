@@ -1,3 +1,7 @@
+# Implementação de algoritmo de backtracking
+# para o problema das N-Rainhas
+
+
 global N
 # Tamanho da Matriz
 N = 8
