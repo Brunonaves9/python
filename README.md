@@ -11,5 +11,8 @@
     <li>
     <a href="https://github.com/Brunonaves9/python/tree/main/Ordenacao">Algoritimos de Ordenação</a>
     </li>
+    <li>
+    <a href="https://github.com/Brunonaves9/python/tree/main/Backtracking">Algoritimos de Backtracking</a>
+    </li>
 </ol>
 </details>
