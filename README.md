@@ -9,6 +9,9 @@
 <summary style="font-size: 16px">Tabela de Algorítmos</summary>
 <ol>
     <li>
+    <a href="https://github.com/Brunonaves9/python/tree/main/Introducao_algoritmo">Introdução à Linguagem Python</a>
+    </li>
+    <li>
     <a href="https://github.com/Brunonaves9/python/tree/main/Ordenacao">Algoritimos de Ordenação</a>
     </li>
     <li>
