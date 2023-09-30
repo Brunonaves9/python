@@ -9,7 +9,7 @@
 <summary style="font-size: 16px">Sumário</summary>
 <ol>
     <li>
-    <a href="https://github.com/Brunonaves9/python/tree/main/introducao_algoritmos">Introdução à Linguagem Python</a>
+    <a href="https://github.com/Brunonaves9/python/tree/main/Introducao_algoritmos">Introdução à Linguagem Python</a>
     </li>
     <li>
     <a href="https://github.com/Brunonaves9/python/tree/main/Ordenacao">Algoritimos de Ordenação</a>
