@@ -6,7 +6,7 @@
 
 ---
 <details>
-<summary style="font-size: 16px">Tabela de Algorítmos</summary>
+<summary style="font-size: 16px">Python</summary>
 <ol>
     <li>
     <a href="https://github.com/Brunonaves9/python/tree/main/Introducao_algoritmo">Introdução à Linguagem Python</a>
