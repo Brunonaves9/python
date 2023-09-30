@@ -1,7 +1,7 @@
 <div align="center">
 <img src="img/python-logo-generic.svg" style="width:150px">
 <h1>Algorítmos em Python</h1>
-<p>Este repositório contém alguns algorítmos em Python.</p>
+<p>Este repositório é uma ferramenta para auxiliar qualquer pessoa que deseje embarcar em sua jornada de aprendizado em Python. Ele oferece uma base sólida em algoritmos e estruturas de dados, preparando os programadores para enfrentar desafios de desenvolvimento mais complexos no futuro.</p>
 </div>
 
 ---
